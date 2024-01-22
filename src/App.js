@@ -32,7 +32,7 @@ try {
           <div className="flex w-full flex-wrap md:flex-nowrap gap-4">
             <Input type="text" label="Search city" id="city"/>
             <Button color="default" className="mt-1 mx-auto" size="lg" onClick={search}>
-          Buscar
+          Search
         </Button>  
           </div>
           <div className="container grid grid-cols-1 bg-[#3b82f6] bg-opacity-70 h-full p-5 rounded-lg hover:bg-[#3b82f6]">
