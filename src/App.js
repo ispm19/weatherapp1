@@ -30,7 +30,7 @@ try {
       <div className="container-sm max-w-sm mx-auto mt-44 ">
         <div className="grid grid-cols-1 gap-4 mt-11">
           <div className="flex w-full flex-wrap md:flex-nowrap gap-4">
-            <Input type="text" label="Buscar locacion" id="city"/>
+            <Input type="text" label="Search city" id="city"/>
             <Button color="default" className="mt-1 mx-auto" size="lg" onClick={search}>
           Buscar
         </Button>  
